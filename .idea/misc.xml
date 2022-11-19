@@ -7,7 +7,10 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/frag_digital.xml" value="0.25" />
         <entry key="app/src/main/res/layout/frag_numerique.xml" value="0.25" />
-        <entry key="app/src/main/res/menu/menu_resource_file.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/menu/context_mode_menu.xml" value="0.216888427734375" />
+        <entry key="app/src/main/res/menu/contextual_menu.xml" value="0.109375" />
+        <entry key="app/src/main/res/menu/menu_contextuel.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/menu/menu_resource_file.xml" value="0.23903757731119793" />
       </map>
     </option>
   </component>
